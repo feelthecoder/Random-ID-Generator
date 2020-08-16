@@ -4,6 +4,6 @@ This is a simple project which can be used to genrate random id when using it to
 
 *SAMPLE VIEW*
 
-https://github.com/feelthecoder/Random-ID-Generator/blob/master/RIG.png
+![alt text](https://github.com/feelthecoder/Random-ID-Generator/blob/master/RIG.png)
 
 
